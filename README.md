@@ -1,5 +1,6 @@
-# Easy Way Deploy
-[![Deploy](https://www.herokucdn.com/deploy/button.svg.template=https://github.com/kucingpulung/All-Repo)
+### Easy Way to Deploy
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kucingpulung/Filter-Bot)
 
 # Bots Pics
 ![image](https://telegra.ph/file/70de1dcbbb4edf0965302.jpg)
