@@ -1,5 +1,5 @@
 # Easy Way Deploy
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://telegra.ph/file/c4ecaecf09a1c68a2dbc4.jpg?template=https://telegra.ph/file/c4ecaecf09a1c68a2dbc4.jpg)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://telegra.ph/file/c4ecaecf09a1c68a2dbc4.jpg?template=https://github.com/kucingpulung/All-Repo)
 
 # Bots Pics
 ![image](https://telegra.ph/file/70de1dcbbb4edf0965302.jpg)
